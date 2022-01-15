@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    background-color: cornflowerblue;
+}
+#heading{
+    font-weight: bold;
+    font-size: 50px;
+}
+.image{
+    width: 500px;
+    height: 350px;
+}
+#wasd{
+    width: 500px;
+    height: 75px;
+    font-weight: 900;
+    font-size: 24px;
+}
+#tiger{
+    width: 750px;
+    height: 350px;
+}
+
