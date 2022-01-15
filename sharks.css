@@ -1,0 +1,49 @@
+body{
+    background-color: darkcyan;
+    text-align: center;
+    
+}
+html{
+    scroll-behavior: smooth;
+}
+#heading{
+    font-weight: 900;
+    font-size:100px;
+}
+.unorderedlist {
+    list-style: none;
+    position: fixed;
+    top:0px;
+    left: 600px;
+    z-index: 10;
+    cursor: pointer
+}
+li{
+    float: left;
+    font-size: 30px;
+    padding-top: 9px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 5px;
+    font-weight: 900;
+    color: rgb(0, 0, 0);
+}
+a{
+    color: rgb(255, 0, 0);
+}
+.subheading{
+    font-weight: 600;
+    font-size:50px;
+}
+#myCanvas{
+    border-width:10px;
+	background-color: white; 
+	border-style:ridge;
+}
+.gp{
+    width: 450px;
+    height: 320px;
+}
+p{
+    font-size: 25px;
+}
